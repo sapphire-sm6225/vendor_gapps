@@ -2,7 +2,7 @@
 #
 
 PRODUCT_SOONG_NAMESPACES += \
-    $(LOCAL_PATH)
+    vendor/gapps/arm
 
 PRODUCT_PACKAGES += \
     GmsCore \
